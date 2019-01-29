@@ -1,0 +1,9 @@
+Compiling and running MPI example
+
+mpic++ -std=c++98 -o Lab2 Lab2.cpp
+mpiexec -n 4 ./Lab2 OR mpirun -n 4 ./Lab2
+
+
+Tesla
+ssh ggm6@tesla.cs.uakron.edu
+scp "file" ggm6@tesla.cs.uakron.edu:/path/
