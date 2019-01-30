@@ -1,4 +1,4 @@
-# Game of Life
+# Conway's Game of Life
 
 Compile:
 mpic++ Lab3.cpp -o Lab3
